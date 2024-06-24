@@ -1,0 +1,3 @@
+config --> .config/i3/
+i3status.conf --> /etc/
+lightdm --> /etc/pam.d/
